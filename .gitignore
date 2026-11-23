@@ -1,0 +1,14 @@
+# Archivos generados por Maven
+target/
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuración personal
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
